@@ -5,6 +5,11 @@ In the rapidly evolving digital landscape, the ability to build applications qui
 
 - Blink.new website： [https://blink.new/](https://blink.new/?aff=jack)
 
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/82815a3e-d191-4633-966d-53bb88fde28a" />
+
+
+<img width="1185" height="537" alt="Blink.new website" src="https://github.com/user-attachments/assets/4b0d642f-2dcb-4134-a400-4ebe90151219" />
+
 ---
 
 ## **A New Era of App Development**
